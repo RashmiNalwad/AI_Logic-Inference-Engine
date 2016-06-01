@@ -1,0 +1,13 @@
+1
+
+H(John,Tom)
+
+4
+
+F(x,John) ^ G(Tom,y) => H(Tom,John)
+
+A(John,Tom)
+
+F(Tom,John)
+
+G(Tom,John)
